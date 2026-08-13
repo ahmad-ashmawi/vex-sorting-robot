@@ -10,8 +10,10 @@ An autonomous VEX robot programmed in C++ that sorts objects into designated loc
 5. If idle for 20 seconds, the robot safely shuts down.
 
 ## Demo & Report
-- **Demo Video:** https://youtu.be/CaOrTIv2SYU
-- **Full Project Report:** https://drive.google.com/file/d/1MJbCLCNo2NveWUUdiiL4WoyymR6oygXf/view?usp=sharing
+
+[![Watch the demo](https://img.youtube.com/vi/CaOrTIv2SYU/hqdefault.jpg)](https://youtu.be/CaOrTIv2SYU)
+
+**Full Project Report:** [View on Google Drive](https://drive.google.com/file/d/1MJbCLCNo2NveWUUdiiL4WoyymR6oygXf/view?usp=sharing)
 
 ## Authors
 Anshia Yaqoob, Jaime McGale, Martin Montgomery, Ahmad Ashmawi
