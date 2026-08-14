@@ -1,4 +1,4 @@
-# Autonomous Object Sorting Robot
+# Object Sorting Robot
 
 An autonomous VEX robot programmed in C++ that sorts objects into designated locations using multi-sensor input and closed-loop motor control. Touch, colour, distance, gyro, and motor encoder inputs drive navigation and object handling.
 
